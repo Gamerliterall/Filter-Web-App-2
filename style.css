@@ -1,0 +1,12 @@
+h3{
+    font-size: 25px !important;
+    color: cyan !important;
+}
+
+canvas{
+    border: 4px purple solid;
+    margin-top:50px;
+}
+body{
+    background-color: black;
+}
